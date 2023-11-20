@@ -1,6 +1,6 @@
-![Alt text](images/favicon.ico)
-
 This is a `Backroad Traveling` project with [`Demo-link`](https://backroads-tour-company-omega.vercel.app/).
+
+![Alt text](images/favicon.ico)
 
 # <h3 align="center">Hero section</h3>
 
