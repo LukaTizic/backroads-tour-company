@@ -2,8 +2,6 @@ This is a `Backroad Traveling` project with [`Demo-link`](https://backroads-tour
 
 # <h3 align="center">Hero section</h1>
 
-# <h3 align="center">Hero section</h1>
-
 ![Alt text](<images/hero section.png>)
 
 # <h3 align="center">About section</h1>
